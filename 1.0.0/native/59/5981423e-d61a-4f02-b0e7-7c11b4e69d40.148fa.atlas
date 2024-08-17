@@ -1,0 +1,577 @@
+
+jiesuan.png
+size: 1335,1399
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_lightB/bw_vfx_g_00
+  rotate: true
+  xy: 742, 1008
+  size: 389, 441
+  orig: 389, 441
+  offset: 0, 0
+  index: -1
+bg_lightB/bw_vfx_g_01
+  rotate: true
+  xy: 742, 617
+  size: 389, 441
+  orig: 389, 441
+  offset: 0, 0
+  index: -1
+bg_lightB/bw_vfx_g_02
+  rotate: true
+  xy: 742, 226
+  size: 389, 441
+  orig: 389, 441
+  offset: 0, 0
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_05
+  rotate: false
+  xy: 480, 759
+  size: 259, 76
+  orig: 275, 91
+  offset: 9, 3
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_12
+  rotate: false
+  xy: 742, 2
+  size: 261, 72
+  orig: 275, 91
+  offset: 9, 5
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_14
+  rotate: false
+  xy: 1005, 2
+  size: 261, 72
+  orig: 275, 91
+  offset: 8, 5
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_15
+  rotate: false
+  xy: 480, 1323
+  size: 260, 74
+  orig: 275, 91
+  offset: 9, 5
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_18
+  rotate: false
+  xy: 480, 1159
+  size: 259, 79
+  orig: 275, 91
+  offset: 9, 5
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_19
+  rotate: false
+  xy: 480, 1078
+  size: 259, 79
+  orig: 275, 91
+  offset: 9, 5
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_20
+  rotate: false
+  xy: 480, 997
+  size: 259, 79
+  orig: 275, 91
+  offset: 9, 4
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_21
+  rotate: false
+  xy: 480, 600
+  size: 258, 79
+  orig: 275, 91
+  offset: 9, 4
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_22
+  rotate: false
+  xy: 480, 1240
+  size: 259, 81
+  orig: 275, 91
+  offset: 8, 4
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_23
+  rotate: false
+  xy: 480, 517
+  size: 257, 81
+  orig: 275, 91
+  offset: 9, 4
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_32
+  rotate: false
+  xy: 480, 681
+  size: 259, 76
+  orig: 275, 91
+  offset: 8, 2
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_33
+  rotate: false
+  xy: 480, 917
+  size: 259, 78
+  orig: 275, 91
+  offset: 8, 2
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_34
+  rotate: false
+  xy: 480, 837
+  size: 259, 78
+  orig: 275, 91
+  offset: 8, 1
+  index: -1
+free_jiesuan/tw_vfx_d
+  rotate: false
+  xy: 2, 365
+  size: 476, 1032
+  orig: 476, 1032
+  offset: 0, 0
+  index: -1
+freejs
+  rotate: true
+  xy: 2, 22
+  size: 341, 738
+  orig: 341, 738
+  offset: 0, 0
+  index: -1
+zhongjiangyuansubeijing/fs_vfx_a_00
+  rotate: false
+  xy: 1185, 972
+  size: 148, 425
+  orig: 148, 425
+  offset: 0, 0
+  index: -1
+zhongjiangyuansubeijing/fs_vfx_a_01
+  rotate: false
+  xy: 1185, 545
+  size: 148, 425
+  orig: 148, 425
+  offset: 0, 0
+  index: -1
+zhongjiangyuansubeijing/fs_vfx_a_05
+  rotate: false
+  xy: 1185, 118
+  size: 148, 425
+  orig: 148, 425
+  offset: 0, 0
+  index: -1
+zhongjiangyuansubeijing/fs_vfx_a_06
+  rotate: true
+  xy: 742, 76
+  size: 148, 425
+  orig: 148, 425
+  offset: 0, 0
+  index: -1
+
+jiesuan2.png
+size: 1399,1331
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_lightB/bw_vfx_g_03
+  rotate: false
+  xy: 2, 888
+  size: 389, 441
+  orig: 389, 441
+  offset: 0, 0
+  index: -1
+bg_lightB/bw_vfx_g_04
+  rotate: false
+  xy: 784, 3
+  size: 389, 440
+  orig: 389, 441
+  offset: 0, 1
+  index: -1
+bg_lightB/bw_vfx_g_06
+  rotate: false
+  xy: 2, 445
+  size: 389, 441
+  orig: 389, 441
+  offset: 0, 0
+  index: -1
+bg_lightB/bw_vfx_g_07
+  rotate: false
+  xy: 393, 888
+  size: 389, 441
+  orig: 389, 441
+  offset: 0, 0
+  index: -1
+bg_lightB/bw_vfx_g_08
+  rotate: false
+  xy: 2, 2
+  size: 389, 441
+  orig: 389, 441
+  offset: 0, 0
+  index: -1
+bg_lightB/bw_vfx_g_09
+  rotate: false
+  xy: 393, 445
+  size: 389, 441
+  orig: 389, 441
+  offset: 0, 0
+  index: -1
+bg_lightB/bw_vfx_g_10
+  rotate: false
+  xy: 784, 888
+  size: 389, 441
+  orig: 389, 441
+  offset: 0, 0
+  index: -1
+bg_lightB/bw_vfx_g_11
+  rotate: false
+  xy: 393, 2
+  size: 389, 441
+  orig: 389, 441
+  offset: 0, 0
+  index: -1
+bg_lightB/bw_vfx_g_12
+  rotate: false
+  xy: 784, 445
+  size: 389, 441
+  orig: 389, 441
+  offset: 0, 0
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_16
+  rotate: true
+  xy: 1325, 1068
+  size: 261, 72
+  orig: 275, 91
+  offset: 8, 5
+  index: -1
+zhongjiangyuansubeijing/fs_vfx_a_07
+  rotate: false
+  xy: 1175, 904
+  size: 148, 425
+  orig: 148, 425
+  offset: 0, 0
+  index: -1
+zhongjiangyuansubeijing/fs_vfx_a_08
+  rotate: false
+  xy: 1175, 477
+  size: 148, 425
+  orig: 148, 425
+  offset: 0, 0
+  index: -1
+zhongjiangyuansubeijing/fs_vfx_a_09
+  rotate: false
+  xy: 1175, 50
+  size: 148, 425
+  orig: 148, 425
+  offset: 0, 0
+  index: -1
+
+jiesuan3.png
+size: 1400,1366
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bobaodongxiaokuang/ib_vfx_e_00
+  rotate: false
+  xy: 791, 1212
+  size: 261, 76
+  orig: 275, 91
+  offset: 7, 2
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_01
+  rotate: false
+  xy: 1054, 1212
+  size: 261, 76
+  orig: 275, 91
+  offset: 7, 3
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_02
+  rotate: false
+  xy: 2, 1136
+  size: 261, 76
+  orig: 275, 91
+  offset: 8, 3
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_03
+  rotate: false
+  xy: 265, 1136
+  size: 261, 76
+  orig: 275, 91
+  offset: 7, 3
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_04
+  rotate: false
+  xy: 528, 1136
+  size: 261, 76
+  orig: 275, 91
+  offset: 8, 3
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_06
+  rotate: false
+  xy: 2, 1290
+  size: 261, 74
+  orig: 275, 91
+  offset: 8, 5
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_07
+  rotate: false
+  xy: 265, 1290
+  size: 261, 74
+  orig: 275, 91
+  offset: 8, 5
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_08
+  rotate: false
+  xy: 528, 1290
+  size: 261, 74
+  orig: 275, 91
+  offset: 8, 4
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_09
+  rotate: false
+  xy: 791, 1290
+  size: 261, 74
+  orig: 275, 91
+  offset: 8, 5
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_10
+  rotate: false
+  xy: 1054, 1290
+  size: 261, 74
+  orig: 275, 91
+  offset: 9, 5
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_11
+  rotate: false
+  xy: 2, 1214
+  size: 261, 74
+  orig: 275, 91
+  offset: 9, 5
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_13
+  rotate: false
+  xy: 265, 1214
+  size: 261, 74
+  orig: 275, 91
+  offset: 9, 5
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_17
+  rotate: false
+  xy: 528, 1214
+  size: 261, 74
+  orig: 275, 91
+  offset: 7, 5
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_24
+  rotate: true
+  xy: 1317, 1103
+  size: 261, 81
+  orig: 275, 91
+  offset: 7, 3
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_25
+  rotate: false
+  xy: 265, 1051
+  size: 261, 83
+  orig: 275, 91
+  offset: 7, 2
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_26
+  rotate: false
+  xy: 528, 1051
+  size: 261, 83
+  orig: 275, 91
+  offset: 8, 2
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_27
+  rotate: false
+  xy: 1054, 1018
+  size: 263, 83
+  orig: 275, 91
+  offset: 6, 2
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_28
+  rotate: false
+  xy: 791, 1049
+  size: 261, 83
+  orig: 275, 91
+  offset: 8, 2
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_29
+  rotate: false
+  xy: 1054, 1132
+  size: 261, 78
+  orig: 275, 91
+  offset: 7, 2
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_30
+  rotate: false
+  xy: 791, 1134
+  size: 261, 76
+  orig: 275, 91
+  offset: 7, 2
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_31
+  rotate: false
+  xy: 2, 1056
+  size: 261, 78
+  orig: 275, 91
+  offset: 7, 2
+  index: -1
+zhongjiangyuansubeijing/fs_vfx_a_02
+  rotate: true
+  xy: 2, 902
+  size: 147, 425
+  orig: 148, 425
+  offset: 1, 0
+  index: -1
+zhongjiangyuansubeijing/fs_vfx_a_03
+  rotate: true
+  xy: 429, 900
+  size: 147, 425
+  orig: 148, 425
+  offset: 1, 0
+  index: -1
+zhongjiangyuansubeijing/fs_vfx_a_04
+  rotate: true
+  xy: 856, 869
+  size: 147, 425
+  orig: 148, 425
+  offset: 1, 0
+  index: -1
+zhongjiangyuansubeijing/fs_vfx_a_10
+  rotate: true
+  xy: 2, 753
+  size: 147, 425
+  orig: 148, 425
+  offset: 1, 0
+  index: -1
+zhongjiangyuansubeijing/fs_vfx_a_11
+  rotate: true
+  xy: 429, 751
+  size: 147, 425
+  orig: 148, 425
+  offset: 1, 0
+  index: -1
+zhongjiangyuansubeijing/fs_vfx_a_12
+  rotate: true
+  xy: 856, 720
+  size: 147, 425
+  orig: 148, 425
+  offset: 1, 0
+  index: -1
+zhongjiangyuansubeijing/fs_vfx_a_13
+  rotate: true
+  xy: 856, 570
+  size: 148, 425
+  orig: 148, 425
+  offset: 0, 0
+  index: -1
+zhongjiangyuansubeijing/fs_vfx_a_14
+  rotate: true
+  xy: 2, 454
+  size: 148, 425
+  orig: 148, 425
+  offset: 0, 0
+  index: -1
+zhongjiangyuansubeijing/fs_vfx_a_15
+  rotate: true
+  xy: 429, 452
+  size: 148, 425
+  orig: 148, 425
+  offset: 0, 0
+  index: -1
+zhongjiangyuansubeijing/fs_vfx_a_16
+  rotate: true
+  xy: 2, 604
+  size: 147, 425
+  orig: 148, 425
+  offset: 1, 0
+  index: -1
+zhongjiangyuansubeijing/fs_vfx_a_17
+  rotate: true
+  xy: 856, 420
+  size: 148, 425
+  orig: 148, 425
+  offset: 0, 0
+  index: -1
+zhongjiangyuansubeijing/fs_vfx_a_18
+  rotate: true
+  xy: 2, 304
+  size: 148, 425
+  orig: 148, 425
+  offset: 0, 0
+  index: -1
+zhongjiangyuansubeijing/fs_vfx_a_19
+  rotate: true
+  xy: 429, 302
+  size: 148, 425
+  orig: 148, 425
+  offset: 0, 0
+  index: -1
+zhongjiangyuansubeijing/fs_vfx_a_20
+  rotate: true
+  xy: 856, 270
+  size: 148, 425
+  orig: 148, 425
+  offset: 0, 0
+  index: -1
+zhongjiangyuansubeijing/fs_vfx_a_21
+  rotate: true
+  xy: 2, 154
+  size: 148, 425
+  orig: 148, 425
+  offset: 0, 0
+  index: -1
+zhongjiangyuansubeijing/fs_vfx_a_22
+  rotate: true
+  xy: 429, 152
+  size: 148, 425
+  orig: 148, 425
+  offset: 0, 0
+  index: -1
+zhongjiangyuansubeijing/fs_vfx_a_23
+  rotate: true
+  xy: 856, 120
+  size: 148, 425
+  orig: 148, 425
+  offset: 0, 0
+  index: -1
+zhongjiangyuansubeijing/fs_vfx_a_24
+  rotate: true
+  xy: 429, 602
+  size: 147, 425
+  orig: 148, 425
+  offset: 1, 0
+  index: -1
+zhongjiangyuansubeijing/fs_vfx_a_25
+  rotate: true
+  xy: 2, 4
+  size: 148, 425
+  orig: 148, 425
+  offset: 0, 0
+  index: -1
+zhongjiangyuansubeijing/fs_vfx_a_26
+  rotate: true
+  xy: 429, 2
+  size: 148, 425
+  orig: 148, 425
+  offset: 0, 0
+  index: -1
+
+jiesuan4.png
+size: 1065,403
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_lightB/bw_vfx_g_05
+  rotate: true
+  xy: 2, 12
+  size: 389, 440
+  orig: 389, 441
+  offset: 0, 1
+  index: -1
+free_jiesuan/tw_vfx_e
+  rotate: false
+  xy: 444, 2
+  size: 340, 399
+  orig: 340, 399
+  offset: 0, 0
+  index: -1
+free_jiesuan/tw_vfx_f
+  rotate: false
+  xy: 786, 107
+  size: 277, 294
+  orig: 277, 294
+  offset: 0, 0
+  index: -1

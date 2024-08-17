@@ -1,0 +1,27 @@
+
+bg.png
+size: 544,366
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mianfeixianshikuanghebeijing/ui_jellyfishL
+  rotate: true
+  xy: 376, 192
+  size: 172, 166
+  orig: 176, 171
+  offset: 2, 2
+  index: -1
+mianfeixianshikuanghebeijing/ui_jellyfishR
+  rotate: false
+  xy: 2, 2
+  size: 372, 362
+  orig: 382, 371
+  offset: 4, 4
+  index: -1
+smw_vfx_e_screen
+  rotate: false
+  xy: 376, 44
+  size: 141, 146
+  orig: 141, 146
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,258 @@
+
+ydon.png
+size: 1362,610
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bobaodongxiaokuang/ib_vfx_e_00
+  rotate: true
+  xy: 252, 84
+  size: 261, 76
+  orig: 275, 91
+  offset: 7, 2
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_01
+  rotate: true
+  xy: 255, 347
+  size: 261, 76
+  orig: 275, 91
+  offset: 7, 3
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_02
+  rotate: true
+  xy: 330, 84
+  size: 261, 76
+  orig: 275, 91
+  offset: 8, 3
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_03
+  rotate: true
+  xy: 333, 347
+  size: 261, 76
+  orig: 275, 91
+  offset: 7, 3
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_04
+  rotate: true
+  xy: 408, 84
+  size: 261, 76
+  orig: 275, 91
+  offset: 8, 3
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_05
+  rotate: true
+  xy: 1023, 349
+  size: 259, 76
+  orig: 275, 91
+  offset: 9, 3
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_06
+  rotate: true
+  xy: 486, 84
+  size: 261, 74
+  orig: 275, 91
+  offset: 8, 5
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_07
+  rotate: true
+  xy: 489, 347
+  size: 261, 74
+  orig: 275, 91
+  offset: 8, 5
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_08
+  rotate: true
+  xy: 562, 84
+  size: 261, 74
+  orig: 275, 91
+  offset: 8, 4
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_09
+  rotate: true
+  xy: 565, 347
+  size: 261, 74
+  orig: 275, 91
+  offset: 8, 5
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_10
+  rotate: true
+  xy: 638, 84
+  size: 261, 74
+  orig: 275, 91
+  offset: 9, 5
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_11
+  rotate: true
+  xy: 641, 347
+  size: 261, 74
+  orig: 275, 91
+  offset: 9, 5
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_12
+  rotate: true
+  xy: 790, 84
+  size: 261, 72
+  orig: 275, 91
+  offset: 9, 5
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_13
+  rotate: true
+  xy: 714, 84
+  size: 261, 74
+  orig: 275, 91
+  offset: 9, 5
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_14
+  rotate: true
+  xy: 793, 347
+  size: 261, 72
+  orig: 275, 91
+  offset: 8, 5
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_15
+  rotate: true
+  xy: 867, 348
+  size: 260, 74
+  orig: 275, 91
+  offset: 9, 5
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_16
+  rotate: true
+  xy: 864, 84
+  size: 261, 72
+  orig: 275, 91
+  offset: 8, 5
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_17
+  rotate: true
+  xy: 717, 347
+  size: 261, 74
+  orig: 275, 91
+  offset: 7, 5
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_18
+  rotate: false
+  xy: 265, 3
+  size: 259, 79
+  orig: 275, 91
+  offset: 9, 5
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_19
+  rotate: false
+  xy: 526, 3
+  size: 259, 79
+  orig: 275, 91
+  offset: 9, 5
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_20
+  rotate: false
+  xy: 787, 3
+  size: 259, 79
+  orig: 275, 91
+  offset: 9, 4
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_21
+  rotate: false
+  xy: 1101, 192
+  size: 258, 79
+  orig: 275, 91
+  offset: 9, 4
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_22
+  rotate: true
+  xy: 938, 87
+  size: 259, 81
+  orig: 275, 91
+  offset: 8, 4
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_23
+  rotate: false
+  xy: 1048, 5
+  size: 257, 81
+  orig: 275, 91
+  offset: 9, 4
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_24
+  rotate: true
+  xy: 172, 347
+  size: 261, 81
+  orig: 275, 91
+  offset: 7, 3
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_25
+  rotate: true
+  xy: 2, 82
+  size: 261, 83
+  orig: 275, 91
+  offset: 7, 2
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_26
+  rotate: true
+  xy: 87, 347
+  size: 261, 83
+  orig: 275, 91
+  offset: 8, 2
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_27
+  rotate: true
+  xy: 2, 345
+  size: 263, 83
+  orig: 275, 91
+  offset: 6, 2
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_28
+  rotate: true
+  xy: 87, 84
+  size: 261, 83
+  orig: 275, 91
+  offset: 8, 2
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_29
+  rotate: false
+  xy: 2, 2
+  size: 261, 78
+  orig: 275, 91
+  offset: 7, 2
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_30
+  rotate: true
+  xy: 411, 347
+  size: 261, 76
+  orig: 275, 91
+  offset: 7, 2
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_31
+  rotate: true
+  xy: 172, 84
+  size: 261, 78
+  orig: 275, 91
+  offset: 7, 2
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_32
+  rotate: false
+  xy: 1101, 532
+  size: 259, 76
+  orig: 275, 91
+  offset: 8, 2
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_33
+  rotate: true
+  xy: 943, 349
+  size: 259, 78
+  orig: 275, 91
+  offset: 8, 2
+  index: -1
+bobaodongxiaokuang/ib_vfx_e_34
+  rotate: true
+  xy: 1021, 88
+  size: 259, 78
+  orig: 275, 91
+  offset: 8, 1
+  index: -1
+yuansudongxiao/wild_vfx_d_add
+  rotate: false
+  xy: 1101, 273
+  size: 258, 257
+  orig: 258, 257
+  offset: 0, 0
+  index: -1
